@@ -1,0 +1,52 @@
+
+/* Univarsale Selecter
+*{
+    color: red;
+} */
+
+
+/* Typer Selecter 
+ singel 
+ h1{
+    color: red;
+} */
+
+/* multiple 
+ h1,span{
+    color: red;
+} */
+
+/* Class Selecter */
+
+/* .intrest{
+    color: red;
+} */
+
+/* ID selecter */
+
+/* #my-span{
+    color: red;
+} */
+
+
+/* CHAILD Selecter */
+/* span>p{
+    color: red;
+} */
+
+/* DECNDENT Selecter */
+/* div p{
+    color: red;
+} */
+
+/* ADJACENT SIBLING SELECTER */
+/* h1+p{
+    color: red;
+} */
+/* Generel SIBLING SELECTER */
+h1~p{
+    color: red;
+}
+
+
+
